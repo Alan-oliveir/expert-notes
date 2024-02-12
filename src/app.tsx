@@ -11,7 +11,7 @@ export function App() {
         <input
           type="text"
           placeholder="Busque em suas notas..."
-          className="w-full bg-transparent text-3xl font-semibold tracking-tight outline-none placeholder:text-slate-500"
+          className="w-full bg-transparent text-3xl font-semibold tracking-tight outline-none placeholder:text-state-500"
         />
       </form>
 
@@ -19,12 +19,12 @@ export function App() {
 
       <div className="grid grid-cols-3 gap-6 auto-rows-[250px]">
         <NewNoteCard />
-        <NoteCard />
-        <NoteCard />
-        <NoteCard />
-        <NoteCard />
-        <NoteCard />
-        <NoteCard />
+        <NoteCard
+          note={{
+            date: new Date(),
+            content: "Hello World",
+          }}
+        />
       </div>
     </div>
   );
