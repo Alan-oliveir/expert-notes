@@ -6,14 +6,16 @@ Expert Notes é uma aplicação web para salvar notas rápidas, que podem ser di
 
 ## Screenshots
 - Tela inical:
+
 ![screen2](https://github.com/Alan-oliveir/expert-notes/blob/main/screenshot/screenshot-02.png)
 
 - Modais de escrita e gravação:
+
 ![screen3](https://github.com/Alan-oliveir/expert-notes/blob/main/screenshot/screenshot-03.png)
 ![screen4](https://github.com/Alan-oliveir/expert-notes/blob/main/screenshot/screenshot-04.png)
 
 ## Agradecimentos   
-Desenvolvido durante o evento NLW Expert promovido pela [Rocktseat](https://www.rocketseat.com.br/).
+Desenvolvido durante o evento NLW Expert promovido pela [Rocktseat](https://www.rocketseat.com.br/), na trilha React JS.
 ___
 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
