@@ -2,7 +2,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Sobre
-Expert Notes é uma aplicação web para salvar notas rápidas, que podem ser digitadas ou transcristas usando speech-recognition API. Usa a biblioteca React JS. A aplicação é responsiva. Note que a função de transcrição com speech-recognition pode não estar disponível em todos os navegadores.
+Expert Notes é uma aplicação web para salvar notas rápidas, que podem ser digitadas ou transcritas usando speech-recognition API. Usa a biblioteca React JS. A aplicação é responsiva. Note que a função de transcrição com speech-recognition pode não estar disponível em todos os navegadores.
 
 ## Screenshots
 - Tela inical:
